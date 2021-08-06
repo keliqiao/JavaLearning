@@ -16,7 +16,7 @@ public class Main{
                 System.out.print("您输入的数字有点小");
             }else {
                 System.out.print("恭喜你猜对了");
-                return;
+                break;
             }
         }
     }
